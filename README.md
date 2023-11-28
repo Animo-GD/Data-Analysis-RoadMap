@@ -10,15 +10,15 @@ no Prerequisite Knowledge Is Needed** \
 2. When are you ready for a real job?
 3. Data Analyst Jobs in Egypt.
 4. Road Map
- - SQL
- - Math 
- - Python
- - NumPy
- - SciPy
- - Pandas
- - Matplotlib
- - Seaborn
- - Dashboard Using Tableau OR Power BI
+&nbsp;&nbsp;- SQL
+ &nbsp;&nbsp;- Math 
+ &nbsp;&nbsp;- Python
+ &nbsp;&nbsp;- NumPy
+ &nbsp;&nbsp;- SciPy
+ &nbsp;&nbsp;- Pandas
+ &nbsp;&nbsp;- Matplotlib
+ &nbsp;&nbsp;- Seaborn
+ &nbsp;&nbsp;- Dashboard Using Tableau OR Power BI
 5. Avaliable Internships
 6. Big Data Analytics
 7. References
