@@ -1,4 +1,4 @@
-![App Screenshot](https://img.freepik.com/free-vector/site-stats-concept-illustration_114360-1434.jpg?w=740&t=st=1701185100~exp=1701185700~hmac=99af47f875dfc69f56a0f3f369112bbdf12b7da64164312dc05222781d9c2279)
+![App Screenshot](https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 # Data Analysis Road Map
 **This Road map is made for any one who wants to start learning Data Analysis from the beginning \
@@ -10,6 +10,7 @@ no Prerequisite Knowledge Is Needed** \
 2. When are you ready for a real job?
 3. Data Analyst Jobs in Egypt.
 4. Road Map
+- SQL
 - Math 
 - Python
 - NumPy
