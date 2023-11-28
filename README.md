@@ -1,4 +1,4 @@
-<h1 align="center">Data Analyst Roadmap 📊</h1>
+# Data Analyst Roadmap 📊
 ![App Screenshot](https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 **This Road map is made for any one who wants to start learning Data Analysis from the beginning \
