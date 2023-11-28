@@ -1,6 +1,6 @@
+<h1 align="center">Data Analyst Roadmap 📊</h1>
 ![App Screenshot](https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-# Data Analysis Road Map
 **This Road map is made for any one who wants to start learning Data Analysis from the beginning \
 no Prerequisite Knowledge Is Needed** \
 *Written by* : [Moaaz Soliman](https://www.linkedin.com/in/moaazsolomon/)
