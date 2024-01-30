@@ -47,7 +47,7 @@ You can check [LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3815
    As a Data Analyst, you are collecting the data so the data may be in different formats such as.
    - [XML](https://www.youtube.com/watch?v=3WLKXzTCWEs)
    - [CSV](https://www.youtube.com/watch?v=bKflBXozZ9c)
-   - [Jason](https://www.youtube.com/watch?v=4dz4qDMwmCM)
+   - [JSON](https://www.youtube.com/watch?v=4dz4qDMwmCM)
    - [Database](https://www.youtube.com/watch?v=rQKJFlsifR8)
   
 2. **SQL**
