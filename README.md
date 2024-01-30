@@ -50,7 +50,7 @@ You can check [LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3815
    - [Jason](https://www.youtube.com/watch?v=4dz4qDMwmCM)
    - [Database](https://www.youtube.com/watch?v=rQKJFlsifR8)
   
-2. **SQL**\
+2. **SQL**
    - [Theorical](https://youtube.com/playlist?list=PL37D52B7714788190&si=RAUqZyik3f-beZws)
    - [Practical](https://youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&si=g077LfMUR9qcIMMj)
    - [Problem-Solving Easy Level](https://www.hackerrank.com/domains/sql)
@@ -74,10 +74,10 @@ You can check [LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3815
    - [Course 2 For Codezilla](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)
    - [Problem Solving](https://www.hackerrank.com/domains/python) - *Try to solve one or more every day*.
 
-5. **Numpy**\
+5. **Numpy**
    - [Course 1](https://youtube.com/playlist?list=PLuRv1IekA3YVAMh7Is9PRsM7IMLhLS787&si=1j4fliQzUakIRd2o)
 
-6. **SciPy**\
+6. **SciPy**
    - [Video](https://youtu.be/jmX4FOUEfgU?si=4G5iVSpOrUawRSJj)
 
 7. **Pandas**
