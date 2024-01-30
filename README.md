@@ -34,9 +34,9 @@ When you possess a combination of the following skills.
 - Data Exploration And Analytics
 - Data Story Telling And Reporting
 2. **Analytical Skills**:\
-  have a strong aptitude for problem-solving and critical thinking, with the ability to analyze complex datasets, identify trends, and derive insights that can inform business decisions.
+  Have a strong aptitude for problem-solving and critical thinking, with the ability to analyze complex datasets, identify trends, and derive insights that can inform business decisions.
 3. **Statistical Knowledge**:\
-  understand basic statistical concepts and methods, such as hypothesis testing, regression analysis, and probability theory
+  Understand basic statistical concepts and methods, such as hypothesis testing, regression analysis, and probability theory
 
 ## Data Analyst Jobs in Egypt.
 There is a high demand for a data analyst role in Egypt especially in companies like Orange and Vodafone and other companies that depend on Developing strategies and production plans for the company’s development
