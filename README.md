@@ -8,9 +8,9 @@ no Prerequisite Knowledge Is Needed**
 
 ## Agenda
 1. [What is Data Analysis?](https://github.com/Animo-GD/FEE-Tracks-Guide/blob/main/README.md#what-is-data-analysis)
-2. When are you ready for a real job?
-3. Data Analyst Jobs in Egypt.
-4. Road Map
+2. [When are you ready for a real job?](https://github.com/Animo-GD/Data-Analysis-RoadMap#when-are-you-ready-for-a-real-job)
+3. [Data Analyst Jobs in Egypt.](https://github.com/Animo-GD/Data-Analysis-RoadMap#data-analyst-jobs-in-egypt)
+4. [Road Map](https://github.com/Animo-GD/Data-Analysis-RoadMap#roadmap)
    - SQL
    - Data Structure
    - Math
@@ -22,7 +22,7 @@ no Prerequisite Knowledge Is Needed**
    - Seaborn
    - Dashboard
    - Web Scrapping
-5. PDFs
+5. [PDFs](https://github.com/Animo-GD/Data-Analysis-RoadMap#pdfs)
 ## What is Data Analysis?
 Data analysis is inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making.
  - [Check This Video To Know More](https://www.youtube.com/watch?v=VykLcJ0kdB4&t=244s)
