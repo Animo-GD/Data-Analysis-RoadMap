@@ -50,34 +50,34 @@ You can check [LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3815
    - [Jason](https://www.youtube.com/watch?v=4dz4qDMwmCM)
    - [Database](https://www.youtube.com/watch?v=rQKJFlsifR8)
   
-2. **SQL**
+2. **SQL**\
    - [Theorical](https://youtube.com/playlist?list=PL37D52B7714788190&si=RAUqZyik3f-beZws)
    - [Practical](https://youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&si=g077LfMUR9qcIMMj)
    - [Problem-Solving Easy Level](https://www.hackerrank.com/domains/sql)
    - [Problem-Solving Hard Level](https://leetcode.com/studyplan/top-sql-50/) (Optional)
 
-3. **Data Structure**
+3. **Data Structure**\
    Choose One
    - [Course 1 From Mega Code](https://youtube.com/playlist?list=PLsGJzJ8SQXTeUNTZopjpRv17WQEaNrp4e&si=cA5BDvr6QacZ0-m)
    - [Course 2 From Adel Nassem](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
    - [Course 3 From Mohamed Eldosky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt)
    
-3. **Math**
+3. **Math**\
    If you have previous Knowledge in these topics you can skip this point.
    - [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
    - [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
    - [Probability and Statistics](https://youtube.com/playlist?list=PLxIvc-MGOs6gW9SgkmoxE5w9vQkID1_r-&si=L_EoEbuemlBGEjYT)
 
-4. **Python**
+4. **Python**\
    Choose one.
    - [Course 1 For Osama Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
    - [Course 2 For Codezilla](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)
    - [Problem Solving](https://www.hackerrank.com/domains/python) - *Try to solve one or more every day*.
 
-5. **Numpy**
+5. **Numpy**\
    - [Course 1](https://youtube.com/playlist?list=PLuRv1IekA3YVAMh7Is9PRsM7IMLhLS787&si=1j4fliQzUakIRd2o)
 
-6. **SciPy**
+6. **SciPy**\
    - [Video](https://youtu.be/jmX4FOUEfgU?si=4G5iVSpOrUawRSJj)
 
 7. **Pandas**
@@ -86,7 +86,7 @@ You can check [LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3815
    - [Course 1](https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&si=fbZKLKDRHSe-PXAQ)
 9. **Seaborn**
     - [Course 1](https://youtube.com/playlist?list=PL4GjoPPG4VqOAwSNw2I-PXUcjw1frHmW2&si=1PEnmPIemXD_g4kV)
-10. **Dashboard**
+10. **Dashboard**\
     Choose One Tool Or You can learn all of them.
     - [Excel](https://youtu.be/bC0CpqsniOQ?si=qIlFftrBs3GJ4s_I)
     - [Tableau](https://youtu.be/aHaOIvR00So?si=DpVF1D3R_xp0NHY_)
