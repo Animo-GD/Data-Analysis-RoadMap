@@ -7,7 +7,7 @@ no Prerequisite Knowledge Is Needed**
 *Written by* : [Moaaz Soliman](https://www.linkedin.com/in/moaazsolomon/)
 
 ## Agenda
-1. [What is Data Analysis?](https://github.com/Animo-GD/FEE-Tracks-Guide/blob/main/README.md#what-is-data-analysis)
+1. [What is Data Analysis?](https://github.com/Animo-GD/Data-Analysis-RoadMap?tab=readme-ov-file#what-is-data-analysis)
 2. [When are you ready for a real job?](https://github.com/Animo-GD/Data-Analysis-RoadMap#when-are-you-ready-for-a-real-job)
 3. [Data Analyst Jobs in Egypt.](https://github.com/Animo-GD/Data-Analysis-RoadMap#data-analyst-jobs-in-egypt)
 4. [Road Map](https://github.com/Animo-GD/Data-Analysis-RoadMap#roadmap)
