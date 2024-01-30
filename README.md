@@ -3,6 +3,7 @@
 
 **This Road map is made for anyone who wants to start learning Data Analysis from the beginning \
 no Prerequisite Knowledge Is Needed** 
+
 *Written by* : [Moaaz Soliman](https://www.linkedin.com/in/moaazsolomon/)
 
 ## Agenda
