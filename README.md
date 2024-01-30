@@ -108,6 +108,6 @@ You can check [LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3815
 - [PowerBI](https://drive.google.com/file/d/1CXI_xuhpT5-YZp7FN4R9-l7L2S1rGc8d/view?usp=drive_link)
 - [Tableau](https://drive.google.com/file/d/1fLbhfwqAVClKhRRNGBrTYRxC8PLbrj8n/view?usp=drive_link)
 
-  > For Any Cretira You Can Contact Me at moaazanwarsoliman@gmail.com
+  > For Any Criteria You Can Contact Me at moaazanwarsoliman@gmail.com
   
   *Thanks*
