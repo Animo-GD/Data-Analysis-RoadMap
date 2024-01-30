@@ -28,7 +28,7 @@ Data analysis is inspecting, cleaning, transforming, and modeling data to discov
  - [Check This Video To Know More](https://www.youtube.com/watch?v=VykLcJ0kdB4&t=244s)
 ## When are you ready for a real job?
 When you possess a combination of the following skills.
-1. **Technical Skills**:\
+1. **Technical Skills**:
 - Querying Data With SQL
 - Data Visualization
 - Data Exploration And Analytics
