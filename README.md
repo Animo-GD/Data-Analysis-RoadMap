@@ -33,10 +33,10 @@ When you possess a combination of the following skills.
 - Data Visualization
 - Data Exploration And Analytics
 - Data Story Telling And Reporting
-2. **Analytical Skills**:
-  have a strong aptitude for problem-solving and critical thinking, with the ability to analyze complex datasets, identify trends, and derive insights that can inform business decisions.
-3. **Statistical Knowledge**:
-  understand basic statistical concepts and methods, such as hypothesis testing, regression analysis, and probability theory
+2. **Analytical Skills**:\
+  Have a strong aptitude for problem-solving and critical thinking, with the ability to analyze complex datasets, identify trends, and derive insights that can inform business decisions.
+3. **Statistical Knowledge**:\
+  Understand basic statistical concepts and methods, such as hypothesis testing, regression analysis, and probability theory
 
 ## Data Analyst Jobs in Egypt.
 There is a high demand for a data analyst role in Egypt especially in companies like Orange and Vodafone and other companies that depend on Developing strategies and production plans for the company’s development
@@ -50,7 +50,7 @@ You can check [LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3815
    - [Jason](https://www.youtube.com/watch?v=4dz4qDMwmCM)
    - [Database](https://www.youtube.com/watch?v=rQKJFlsifR8)
   
-2. **SQL**\
+2. **SQL**
    - [Theorical](https://youtube.com/playlist?list=PL37D52B7714788190&si=RAUqZyik3f-beZws)
    - [Practical](https://youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&si=g077LfMUR9qcIMMj)
    - [Problem-Solving Easy Level](https://www.hackerrank.com/domains/sql)
@@ -74,10 +74,10 @@ You can check [LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3815
    - [Course 2 For Codezilla](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)
    - [Problem Solving](https://www.hackerrank.com/domains/python) - *Try to solve one or more every day*.
 
-5. **Numpy**\
+5. **Numpy**
    - [Course 1](https://youtube.com/playlist?list=PLuRv1IekA3YVAMh7Is9PRsM7IMLhLS787&si=1j4fliQzUakIRd2o)
 
-6. **SciPy**\
+6. **SciPy**
    - [Video](https://youtu.be/jmX4FOUEfgU?si=4G5iVSpOrUawRSJj)
 
 7. **Pandas**
@@ -97,4 +97,17 @@ You can check [LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3815
 > For Practice Use [Kaggle](https://www.kaggle.com/learn) Or [Datawars](https://app.datawars.io/)
 
 ## PDFs
+- [Python Basics](https://drive.google.com/file/d/1PvEEalCyqwf99JDem0LtI9h7PpXqH_bC/view?usp=sharing)
+- [Numpy](https://drive.google.com/file/d/1Gfii_Hg23-JoWHkshglcvFWLq7_Cnftt/view?usp=drive_link)
+- [Numpy Advanced](https://drive.google.com/file/d/1pyNqmeRKtQz92n_icsPjnThlx8ebk9Wn/view?usp=drive_link)
+- [Pandas](https://drive.google.com/file/d/1MmnZQ7GBcX7r2Ikwk3u-w29SqEcMm4NJ/view?usp=drive_link)
+- [Pandas Advanced](https://drive.google.com/file/d/1828yC33wi0B2r1WwQSSBcWhaXYNa2NLD/view?usp=drive_link)
+- [Matplotlib](https://drive.google.com/file/d/1Gu_dUpwbvuirm-upkk1Io2IuHLGZDEUz/view?usp=drive_link)
+- [Seaborn](https://drive.google.com/file/d/1cw8sFiR5K7YMDds_U3ozOfenPYXbYTTD/view?usp=drive_link)
+- [SQL](https://drive.google.com/file/d/1HrknxOz_0PnqRR8F1-lZ2IaU_zfNHZxo/view?usp=drive_link)
+- [PowerBI](https://drive.google.com/file/d/1CXI_xuhpT5-YZp7FN4R9-l7L2S1rGc8d/view?usp=drive_link)
+- [Tableau](https://drive.google.com/file/d/1fLbhfwqAVClKhRRNGBrTYRxC8PLbrj8n/view?usp=drive_link)
 
+  > For Any Criteria You Can Contact Me at moaazanwarsoliman@gmail.com
+  
+  *Thanks*
