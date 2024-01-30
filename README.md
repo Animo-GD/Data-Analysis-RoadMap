@@ -97,4 +97,17 @@ You can check [LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3815
 > For Practice Use [Kaggle](https://www.kaggle.com/learn) Or [Datawars](https://app.datawars.io/)
 
 ## PDFs
+- [Python Basics](https://drive.google.com/file/d/1PvEEalCyqwf99JDem0LtI9h7PpXqH_bC/view?usp=sharing)
+- [Numpy](https://drive.google.com/file/d/1Gfii_Hg23-JoWHkshglcvFWLq7_Cnftt/view?usp=drive_link)
+- [Numpy Advanced](https://drive.google.com/file/d/1pyNqmeRKtQz92n_icsPjnThlx8ebk9Wn/view?usp=drive_link)
+- [Pandas](https://drive.google.com/file/d/1MmnZQ7GBcX7r2Ikwk3u-w29SqEcMm4NJ/view?usp=drive_link)
+- [Pandas Advanced](https://drive.google.com/file/d/1828yC33wi0B2r1WwQSSBcWhaXYNa2NLD/view?usp=drive_link)
+- [Matplotlib](https://drive.google.com/file/d/1Gu_dUpwbvuirm-upkk1Io2IuHLGZDEUz/view?usp=drive_link)
+- [Seaborn](https://drive.google.com/file/d/1cw8sFiR5K7YMDds_U3ozOfenPYXbYTTD/view?usp=drive_link)
+- [SQL](https://drive.google.com/file/d/1HrknxOz_0PnqRR8F1-lZ2IaU_zfNHZxo/view?usp=drive_link)
+- [PowerBI](https://drive.google.com/file/d/1CXI_xuhpT5-YZp7FN4R9-l7L2S1rGc8d/view?usp=drive_link)
+- [Tableau](https://drive.google.com/file/d/1fLbhfwqAVClKhRRNGBrTYRxC8PLbrj8n/view?usp=drive_link)
 
+  > For Any Cretira You Can Contact Me at moaazanwarsoliman@gmail.com
+  
+  *Thanks*
