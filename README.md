@@ -28,14 +28,14 @@ Data analysis is inspecting, cleaning, transforming, and modeling data to discov
  - [Check This Video To Know More](https://www.youtube.com/watch?v=VykLcJ0kdB4&t=244s)
 ## When are you ready for a real job?
 When you possess a combination of the following skills.
-1. **Technical Skills**:
+1. **Technical Skills**:\
 - Querying Data With SQL
 - Data Visualization
 - Data Exploration And Analytics
 - Data Story Telling And Reporting
-2. **Analytical Skills**:
+2. **Analytical Skills**:\
   have a strong aptitude for problem-solving and critical thinking, with the ability to analyze complex datasets, identify trends, and derive insights that can inform business decisions.
-3. **Statistical Knowledge**:
+3. **Statistical Knowledge**:\
   understand basic statistical concepts and methods, such as hypothesis testing, regression analysis, and probability theory
 
 ## Data Analyst Jobs in Egypt.
